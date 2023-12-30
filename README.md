@@ -7,11 +7,12 @@ Understanding the comments, feedback, and opinions of users, clients, and custom
   <img src="https://github.com/minhngt62/nlp-vabsa/blob/main/assests/2-Figure1-1.png" />
 </p>
 
-## Natural Language Processing - DSAI K65: Group 04
+## Web Mining - DSAI K65: Group 12
 1. Nguyễn Tống Minh (Email: minh.nt204885@sis.hust.edu.vn)
-2. Nguyễn Xuân Thái Hòa
-3. Ngô Thị Thu Huyền
-4. Nguyễn Nhật Quang
+2. Nguyễn Quang Minh
+3. Dương Vũ Tuấn Minh
+4. Hoàng Trần Nhật Minh
+5. Lý Nhật Nam
 
 ---
 To reproduce the experiments in notebooks, we notice that the file paths should be added with the corresponding parent directories. Also, when re-running the code, providing a cell `%cd` to `vabsa` will eliminate the issues of importing source code. For more details, please follow the section below.
